@@ -10,7 +10,7 @@
 6. The machine should provide an interface for restocking products and collecting money.
 7. The machine should handle exceptional scenarios, such as insufficient funds or out-of-stock products.
 
-[Solution](#-solution-context)
+# Solution
 
 ---
 
