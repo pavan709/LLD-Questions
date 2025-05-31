@@ -1,3 +1,5 @@
  
-/CopilotIndices
-/v17
+CopilotIndices/
+v17/
+.vs/
+ElevatorDesign/.vs/
